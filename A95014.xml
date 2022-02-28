@@ -1,0 +1,259 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true copy of the articles agreed on at the surrender of Exeter; examined, perused, and signed by his Excellency Sir Thomas Fairfax, with a punctuall relation of the setlement and condition of that city by his Excellency. The particulars at large of the further gallant proceedings of his Excellencies army in the west, their daily motions and advance for Oxford. The surrender of St. Michaels mount, with the conditions agreed on. 30 pieces of ordnance. 3 murdering pieces. 100 barrels of powder. 500 muskets. 100 pike. 80 tonne of wine. And store of other provisions taken there. The treaty for the surrender of Pendenis and Dunster Castle. Commanded to be forthwith printed and published by the originall papers by order of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95014</idno>
+            <idno type="STC">Wing T2636</idno>
+            <idno type="STC">Thomason E334_4</idno>
+            <idno type="STC">ESTC R200762</idno>
+            <idno type="EEBO-CITATION">99861422</idno>
+            <idno type="PROQUEST">99861422</idno>
+            <idno type="VID">113557</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95014)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113557)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 54:E334[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true copy of the articles agreed on at the surrender of Exeter; examined, perused, and signed by his Excellency Sir Thomas Fairfax, with a punctuall relation of the setlement and condition of that city by his Excellency. The particulars at large of the further gallant proceedings of his Excellencies army in the west, their daily motions and advance for Oxford. The surrender of St. Michaels mount, with the conditions agreed on. 30 pieces of ordnance. 3 murdering pieces. 100 barrels of powder. 500 muskets. 100 pike. 80 tonne of wine. And store of other provisions taken there. The treaty for the surrender of Pendenis and Dunster Castle. Commanded to be forthwith printed and published by the originall papers by order of Parliament.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles in the Old-baily.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill 23th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Treaties --  Early works to 1800.</term>
+               <term>Exeter (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113557:1"/>
+            <pb facs="tcp:113557:1" rendition="simple:additions"/>
+            <p>A true Copy of the ARTICLES A greed on at the ſurrender of EXETER; Examined, peruſed, and ſigned by his Excellency Sir Thomas Fairfax, With a punctuall Relation of the ſetlement and condition of that City by his Excellency.</p>
+            <p>The particulars at large of the further gallant proceedings of his Excellencies Army in the Weſt, their daily motions and advance for Oxford.</p>
+            <p>The ſurrender of St. <hi>Michaels</hi> mount, with the Conditions agreed on.</p>
+            <list>
+               <item>30 pieces of Ordnance.</item>
+               <item>3 Murdering pieces.</item>
+               <item>100 barrels of Powder.</item>
+               <item>500 Muskets.</item>
+               <item>100 Pik<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s.</item>
+               <item>80 Tonne of Wine.</item>
+               <item>And ſtore of other Proviſions taken there.</item>
+            </list>
+            <p>The Treaty for the ſurrender of Pendenis and Dunſter Caſtle.</p>
+            <p>Commanded to be forthwith printed and publiſhed by the Originall Papers by order of Parliament.</p>
+            <p>
+               <hi>London,</hi> Printed f<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>F. Goles</hi> in the Old-baily. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:113557:2"/>
+            <pb n="1" facs="tcp:113557:2"/>
+            <head>
+               <figure>
+                  <figDesc>Tudor rose</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>Scottish thistle</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>French fleur-de-lis</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>depiction of Irish harp</figDesc>
+               </figure>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Received yours this day, and returne you many thanks for your full intel<g ref="char:EOLhyphen"/>ligence, therein; our's here (you ſee) daily abates, as well as our acti<g ref="char:EOLhyphen"/>on: what you will have now will be little more then a bare relation of our motion; nor can more be expected till we come into the Midland parts; and too I hope our work will be but ſhort: The Gene<g ref="char:EOLhyphen"/>rall hath ſent Col. <hi>Ceelys</hi> Regiment of foot, part of <hi>Col. Roles </hi> Regiment, and a party commanded by Lieut. col. <hi>Croaker</hi> (1500 in all) to aſſiſt in the blocking up of Pendennis and the Mount, and two of the three Regiments there will be drawn away Eaſtward with the Generall: <hi>Col. Hamond</hi> is
+<pb n="2" facs="tcp:113557:3"/>
+appointed Governour of this city; and three of the countrey Regiments for the eaſing of the countrey reduced and placed in the Gariſon a compleat Re<g ref="char:EOLhyphen"/>giment for the Governour. Thoſe reduced were: col. <hi>Fryes,</hi> col. <hi>Shapcots,</hi> and col. <hi>Weares</hi> Regi<g ref="char:EOLhyphen"/>ments. Tomorrow the Generall will advance hence towards <hi>Chard,</hi> and intends a Rendezvouz the 23 inſtant at <hi>Salisbury.</hi> There were in this city and in the caſtle about 30 pieces of Ordnance, and 150. Barrels of Powder, with great ſtore of other Ammunition: I have ſent you incloſed the copy of the Articles, which had come to you before, but that I was enjoyned the contrary, I hope they will be ſatisfactory now; and were peruſed and ſigned as you may ſee) with his Excellencies own hand, Sir, I remain.</p>
+            <closer>
+               <signed>Yours obliged to ſerve you, W. C.</signed>
+               <dateline>Exeter, <date>April 18. 1646. 3. in the morning</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="3" facs="tcp:113557:3"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe Meſſenger ſtaying, I can now give you this further Accompt; Yeſterday the Gene<g ref="char:EOLhyphen"/>rall came from <hi>Exeter</hi> to <hi>Chard,</hi> and this day we Marcht to Darcheſter: This Morning there came Letters from Col. Hamond of the ſurrender of <hi>St.</hi> Michaels Mount in <hi>Cornwall</hi> on Thruſday Morning laſt: Sir<hi>Arthur Baſſett</hi> was Governour, and he and the reſt of the citizens to goe to Silley: There were taken therein 30 pieces of Ordinance, 3 murdering pieces, 100 barrels of Powder, 500 muskets, 100 Pikes, 80 Tun of Wine, ſtore of other proviſions; The next day he intended to ſummon Pendennis, and I hope you will ſhortly have a good account thereof, Col. <hi>Rowſes</hi> Re<g ref="char:EOLhyphen"/>giment of 600 were come then to Truro, ſo that Col. <hi>Ingoldsby</hi> and Col. <hi>Hamond</hi> will come to the Generall.</p>
+            <closer>
+               <dateline>Chard <date>April 19, 1646.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <opener>
+                  <salute>Sir,</salute>
+               </opener>
+               <p>I ſhall adde one word more, that ſince the writing of the laſt, intelligence is come that Pendennis is upon Treaty, and likewiſe Dunster Caſtle.</p>
+               <closer>
+                  <signed>W. C.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="treaty">
+            <pb n="4" facs="tcp:113557:4"/>
+            <argument>
+               <p>Articles of Agreement concluded upon by <hi>Thomas Ha<g ref="char:EOLhyphen"/>mond</hi> Lieutenant Generall of the Ordinance, Col. Sir <hi>Hardreſſe Waller,</hi> Col. <hi>Edward Harley,</hi> Col. <hi>Lambert,</hi> Commiſſary Generall <hi>Stane,</hi> and Major <hi>Watſon</hi> Sccui-Maſter Generall, Commiſſioners on the behalfe of the right Honorable His Excellency Sir <hi>Thomas Fairfax,</hi> Generall of the Parliaments forces, on the one party: and Sir <hi>Henry Berkeley,</hi> Sir. <hi>Geo. Parry,</hi>Col. <hi>Aſhburnham,</hi> Col. <hi>Godolphin,</hi> Cap<g ref="char:EOLhyphen"/>taine <hi>Fitz-Gerald,</hi> Mr. <hi>Jo. Weare, M. Robert Walker</hi> and M. <hi>Tho. Knot,</hi> Commiſſioners on the behalfe of Sir <hi>John Berkeley</hi> Knight, Governour of the City of Exceter, on the other party, touching and concerning the Rendition of the ſaid City and Gariſon as followeth:</p>
+            </argument>
+            <p n="1">I. THat the City and Gariſon of Exceter, toge<g ref="char:EOLhyphen"/>ther with the Caſtle, and all Forts, and Mounts, places of defence, of, or belonging to the ſame; with all Ordnance, Armes, and Ammuniti<g ref="char:EOLhyphen"/>on, Proviſions, and furniture of War belonging to the Gariſon (excepting what ſhall be excepted in the enſuing Articles) ſhall be delivered unto Sir <hi>Thomas Fairfax</hi> Generall of the Parliaments for<g ref="char:EOLhyphen"/>ces, or to any whom hee ſhall appoint to receive them for the uſe of the Parliament, on Munday
+<pb n="5" facs="tcp:113557:4"/>
+next after the date hereof being the thirteenth of this inſtant <hi>April</hi> by 12 of the Clock at noon.</p>
+            <p n="2">II That if any Officer, Souldier, or any Perſon in<g ref="char:EOLhyphen"/>cluded in theſe Articles, wrong, or plunder in Per<g ref="char:EOLhyphen"/>ſon or Goods (in their March away or before) any Citizen or Countrey-man or any Perſon whatſoever, ſhall as farre as he is able give ſatisfaction to the Per<g ref="char:EOLhyphen"/>ſons ſo injured at the Judgement of his Excellency, Sir <hi>Thot Fairefax.</hi>
+            </p>
+            <p n="3">III That if any Officer, Souldier, or any Perſon (in<g ref="char:EOLhyphen"/>cluded in theſe Articles) ſhall after the Date hereof Wilfully, Break Deface, Spoyle or imbeazle any Armes or other Proviſions of Warre whatſoever by the precedent Articles to be ſurrendred as aforeſaid ſhall loſe the benefit of the inſuing Articles.</p>
+            <p n="4">IV That the Princeſſe, <hi>Henrietta,</hi> and her Governeſſe, with her Houſhold, ſhall have full liberty to paſſe with their Plate, Moneys and Goods, within 20. dayes after the Concluſion of this Treaty, (when ſhe ſhall deſire) to any place within the continent of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> or Dominion of <hi>Wales,</hi> at the Election of the Governeſſe, and there to remain untill His Majeſties Pleaſure be further known touching her ſetling, and that the Governeſſe ſhall have liberty to ſend to the King, to know His Pleaſure herein, accordingly to diſpoſe of Her Highneſſe within the aforeſaid limita<g ref="char:EOLhyphen"/>tion of Places, and that ſit and convenient Carriages be provided for their Paſſage, at reaſonable Rates</p>
+            <p n="5">
+               <pb n="6" facs="tcp:113557:5"/>
+V That the Cathedrall Church, nor any other Church within the City ſhall be defaced, or any thing belong<g ref="char:EOLhyphen"/>ing thereunto ſpoyled or taken away by any Souldi<g ref="char:EOLhyphen"/>er or Perſon of either ſide whatſoever.</p>
+            <p n="6">VI. That the Governour together with all Lords, Clergimen, Gentlemen, Captaines, Officers, Troo<g ref="char:EOLhyphen"/>pers and common Souldiers, ſhall march out of the City on Munday next the thirteenth of <hi>April</hi> by 12 of the clock at noone, with their Horſes, full Armes, Bag and Baggage, and their Goods, Colours flying, Drums beating, Matches lighted, Bullets, full Ban<g ref="char:EOLhyphen"/>daliers with ſufficient convoyes unto Oxford, or unto Helſton in Cornwall at their ſeverall elections, and in caſe the Governour of Oxford ſhall refuſe to receive the common Souldiers that ſhall march thither, they are there to deliver up their Armes to the convoy, and have paſſes to repaire unto their ſeverall homes, and thoſe that march unto Hel<g ref="char:EOLhyphen"/>ſton are there to be disbanded, and to have paſſes to their ſeverall homes. That all Troopers and com<g ref="char:EOLhyphen"/>mon Souldiers which march not as aforeſaid ſhall deliver up their Armes except their Swords, and have liberty to goe unto their owne homes with bag and baggage, and ſhall not be compelled to take up Armes againſt the King, provided alſo that all Officers and Gentlemen that ſhall chuſe to goe to Oxford and not taking up Armes, ſhall repaire into the Parliaments quarters within 40 dayes after the date hereof, and ſhall enjoy the be<g ref="char:EOLhyphen"/>nefit of theſe Articles.</p>
+            <p n="7">
+               <pb n="7" facs="tcp:113557:5"/>
+VII. That all thoſe, which ſhal march to the Garriſons aforeſaid, ſhall have free quarter in their march, and not be obliged to march above tenne miles a day, and that ſuch other Souldiers as are Inhabi<g ref="char:EOLhyphen"/>bitants in the Citie, ſhall receive free libertie to march out, or remaine therein, without being compelled to take up Armes againſt the King: And if any Souldiers fall ſick upon their march that convenient Catriages and Accomodations ſhall be provided for them.</p>
+            <p n="8">VIII. That all Lords, Gentlemen, Clergie-men, Chap<g ref="char:EOLhyphen"/>laines, and Officers, that ſhall chuſe to goe beyond Seas, ſhall march away with their full Armes for their owne uſe; And that all common Souldiers ſhall match away with their full A<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> with a ſufficient Convoy unto the Port which they ſhall chuſe for their tranſportation: Which Armes, they ſhall there lay downe, and deliver unto the Governour of the next Garriſon belonging to the Parliament, the ſaid Governor, providing for their ſafetie during the time of their abode their, where they ſhall be aſſiſted for the procuring Veſſeils and ſhipping for their tranſportation at the ac<g ref="char:EOLhyphen"/>cuſtomed Rates, and ſhall have free Quarter for twentie one dayes allowed, to provide for their paſſage. After which time ſhall be expired, the ſame Officers and Souldiers paying for their
+<pb n="8" facs="tcp:113557:6"/>
+Quarters, ſhall have libertie to ſtay untill ſhip<g ref="char:EOLhyphen"/>ping be provided, and weather ſeaſonable; and that during their ſtay; or before, it ſhall be per<g ref="char:EOLhyphen"/>mitted; That any two of them may goe to <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> to treat with any Forrame Ambaſſadour or Agent, for a Commiſſion to be entertained be<g ref="char:EOLhyphen"/>yond the Seas.</p>
+            <p n="9">IX. That neither the Officers, Souldiers, nor a<g ref="char:EOLhyphen"/>ny perſon whatſoever, in their going out of the Citie ſhall be reproached, or have any diſgrace<g ref="char:EOLhyphen"/>full ſpeeches, or affront offered unto unto them, or any of their perſons, wronged, rifled, ſear<g ref="char:EOLhyphen"/>ched, or their goods ſeized, or taken away from by any perſon whatſoever.</p>
+            <p n="10">X. That the Governour, Lords, Gentlemen, Cler<g ref="char:EOLhyphen"/>gie-men Chaplaines, Commanders, Officers, and Souldiers, comprized in theſe Articles, ſhall be al<g ref="char:EOLhyphen"/>lowed &amp; aſſiſted in providing of ſufficient Carria<g ref="char:EOLhyphen"/>ges at reaſonable Rates to carry away their Bagge, Baggage and Goods; and that cafe be taken by the future Governour of the ſaid Citie, for the curing of ſuch ſicke or wounded Officers and Souldiers as ſhall be leſt in the Citie, and that upon recovery, they ſhall have Paſſes to repaire to their owne houſes reſpectively.</p>
+            <p n="11">
+               <pb n="9" facs="tcp:113557:6"/>
+XI. That the Parliament Forces come not into the Citie untill the Kings Forces be marched out, or<g ref="char:EOLhyphen"/>cent one hundred and fiftie foor, and one Troope, of Horſe with their Officers.</p>
+            <p n="12">XII. That no Lords, Kingths, Gentlemen, Clergie<g ref="char:EOLhyphen"/>men, Chaplaines (excepting thoſe, who are by name excepted by Parliament, from pardon and compoſition) Officers, Citizens and Souldiers, and all other perſons comprized within theſe Ar<g ref="char:EOLhyphen"/>ticles, ſhall be queſtioned or, accountable for any Act paſt by them done (or by any other by their procurement relating unto the unhappy differen<g ref="char:EOLhyphen"/>ces betwixt His Majeſtie and the Parliament they ſubmitting themſelves to reaſonable and moderate compoſition for their Eſtates, which the General Sir <hi>Thomas Fairfax</hi> ſhall really indeavour with the Parliament, that it ſhall not exceed two yeares va<g ref="char:EOLhyphen"/>lew of any mans reail Eſtate reſpectively and for perſonall, according to the ordinarie rule once exceeding the proportion a foreſaid, which Com<g ref="char:EOLhyphen"/>poſition being made, they ſhall have indemnitie for their perſons, and enjoy their Eſtates and all other imunities, without payment of any fifth or twentieth part, or any other Taxes or Impoſiti<g ref="char:EOLhyphen"/>ons, except what ſhall be hereafter charged upon them in common, with other Subjects of this Kingdome, by Authoritie of Parliament.</p>
+            <p n="13">
+               <pb n="10" facs="tcp:113557:7"/>
+XIII. That all Lords, Knights, Gentlemen, Clergy, &amp; Chaplaines, (excepted in the precedent Articles) ſhall have libertie to goe unto any of the Kings Garriſons, and to have a ſafe Conduct for them<g ref="char:EOLhyphen"/>ſelves and ſervants, to goe unto the Parliament to obtaine their Compoſition for their Eſtates, and indempnitie for their perſons, which, (though it prove ineffectuall) yet nevertheleſſe they ſhall have foure moneths time next after the date of theſe Articles to indeavour their peace, or to goe be<g ref="char:EOLhyphen"/>yond the Seas, and ſhall have paſſes for that pur<g ref="char:EOLhyphen"/>poſe.</p>
+            <p n="14">XIV. That all Horſes, Armes, Money, and other Goods whatſoever, taken as lawfull prizes of Warre, before or during the siege now in the Citie, be continued in the poſſeſſion of the pre<g ref="char:EOLhyphen"/>ſent poſſeſſors.</p>
+            <p n="15">XV. That all Officers, Gentlemen, Citizens, Inhabi<g ref="char:EOLhyphen"/>tants, Clergie men, Chaplaines, souldiers, and all other perſons within the Citie, during the time of their making their Compoſition, ſhall have free libertie, either to inhabite within the ſame Citie or ſhall have free libertie at any time to de<g ref="char:EOLhyphen"/>part with their Families, Goods and Eſtates, unto any part of this Kingdom in the Parliaments quar<g ref="char:EOLhyphen"/>ters; &amp; before Compoſion made, the Merchants &amp; Tradeſ-men to enjoy their Merchandizing and
+<pb n="11" facs="tcp:113557:7"/>
+Trades; &amp; after compoſition made, al others (now prohibited by Ordinances of Parliament) to enjoy and exerciſe their profeſſions, or goe beyond the Seas, and they, and every of them, ſhall have pow<g ref="char:EOLhyphen"/>er to diſpoſe and ſell to their own uſes, either by themſelves or others, whatſoever part of their Goods or Eſtates, they ſhall not carry or convey away with them: And all Inhabitants, which did Inhabite within the Citie, within ſeven Moneths paſt, having made their compoſitions as aboveſaid, ſhall enjoy the benefit of this and the 12. and the 22. Articles.</p>
+            <p n="16">XVI. That all Charters, Cuſtomes, Priviledges, Franchiſes, Liberties, Lands, Eſtates, Goods, and Debts of the Major, Aldermen, Bayliffe, Com<g ref="char:EOLhyphen"/>monaltie, as a Corporation, and all other Cor<g ref="char:EOLhyphen"/>porations of the ſaid Citie ſhall be injoyed by them, and that the Ancient Government thereof remaine as formerly.</p>
+            <p n="17">XVII. That if any Perſons or Inhabitants, which are compriſed within theſe Articles, ſhall breake any of them; That ſuch Breach ſhall onely touch and concerne ſuch Perſons, and they to make ſuch ſatisfaction for the ſame as the cauſe ſhall require.</p>
+            <p n="18">
+               <pb n="12" facs="tcp:113557:8"/>
+XVIII. That all Perſons compriſed within theſe Arti<g ref="char:EOLhyphen"/>cles, ſhall have upon requeſt a Certificate under the hand of his Excellencie Sir <hi>Thomas Fairfax</hi> or the future Governour of the Citie, that ſuch Perſons were in the Citie at that time of the ſurrendring thereof, and are to have the benefit of theſe Articles.</p>
+            <p n="19">XIX. That his Excellencie Sir <hi>Thomas Fairfax</hi> give aſſurance; That all Officers and Souldiers in the Parliaments Armie, and all others under his Command, ſhall duely and exactly obſerve all Articles aforeſaid: And that if they, or any of them, ſhall directly or indirectly violate or in<g ref="char:EOLhyphen"/>ſringe the ſame; Upon complaint thereof, J<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may be done, and reparation made.</p>
+            <p n="20">XX. That the Inhabitants of the Citie, ſhall be caſed and freed from all Free-Quarter, or bil<g ref="char:EOLhyphen"/>let of Souldiers, except in caſes of urgent ne<g ref="char:EOLhyphen"/>ceſſitie, other then for lodging, and that to be ordered and diſpoſed by the advice of the Ma<g ref="char:EOLhyphen"/>jor or his Deputie.</p>
+            <p n="21">XXI. That no Oath, Covenant, Proteſtation, or Subſcription (relating thereunto) ſhall be im<g ref="char:EOLhyphen"/>poſed
+<pb n="13" facs="tcp:113557:8"/>
+upon any perſon whatſoever compriſed within theſe Articles, but onely ſuch as ſhall binde all perſons aforeſaid, not to beare Armes againſt the Parliament of <hi>England,</hi> now ſitting at <hi>Weſtminſter,</hi> not wilfully doe any Act prejudiciall, unto their Aſtaires, whilſt they remaine in their Quarters: Except the perſons aforeſaid ſhall firſt render themſelves unto the Parliament, who ſhall cauſe them to be ſecured if they think fit.</p>
+            <p n="22">XXII. That for the further and clearer underſtanding of the precedent Articles, it is hereby declared, that the true meaning of them is; That all per<g ref="char:EOLhyphen"/>ſons compriſed within theſe Articles, ſhall quiet<g ref="char:EOLhyphen"/>ly and peaceablie enjoy all their Goods, Debts, and Moveables during the ſpace of foure Moneths next enſuing, and be free from all Oathes, Cove<g ref="char:EOLhyphen"/>nants, and Proteſtations, and have libertie within the time of the ſaid foure Moneths in caſe they ſhall not make their compoſition with the Parli<g ref="char:EOLhyphen"/>ament (and ſhall be reſolved to goe beyond Seas) to diſpoſe of their ſaid Goods, Debts, and Mo<g ref="char:EOLhyphen"/>veables allowed by theſe Articles, and to depart the Kingdome, if they ſhall think it, and to have paſſes for that purpoſe, or otherwiſe to ſtay in the Kingdome.</p>
+            <p n="23">XXIII. That <hi>Mount Radford,</hi> and the Ward in St. <hi>Tho<g ref="char:EOLhyphen"/>mas</hi> Pariſh, with the proviſions of Warre there<g ref="char:EOLhyphen"/>unto
+<pb n="14" facs="tcp:113557:9"/>
+belonging, be delivered unto his Excellencie Sir <hi>Thomas Fairfax,</hi> or whom he ſhall appoynt to receive them, in aſſurance of the performance of the precedent Articles, to morrow by ſix of the Clock in the Afternoone, being the 7. of <hi>April,</hi> and that foure ſuch Gentlemen or Officers as his Excellence ſhall approve of, ſhall be delivered at the ſame time as Hoſtages for the performance of the fore-going Articles on the one part, and two Hoſtages, ſuch as Sir <hi>John Berkley</hi> Knight, Gover<g ref="char:EOLhyphen"/>nour of the Citie of <hi>Exceter</hi> ſhall approve of, and appoynt to be received for performance on the other part.</p>
+            <p n="24">XXIV. Laſtly, that theſe Articles be ratified and con<g ref="char:EOLhyphen"/>firmed mutually by his Excellencie Sir <hi>Thomas Fairfax</hi> on the one part, and Sir <hi>Iohn Berkley</hi> Knight, Governour of the Citie on the other part.</p>
+            <p>
+               <hi>I doe hereby ratifie and confirme the Articles above<g ref="char:EOLhyphen"/>ſaid, agreed on by the commiſſioners on my Part.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>April 9, 1646.</date>
+               </dateline>
+               <signed>THO. FAIRFAX.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:113557:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
